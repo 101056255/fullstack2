@@ -1,0 +1,15 @@
+{
+  "name": "labexercise1",
+  "version": "1.0.0",
+  "description": "Lab 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Edward Philip",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "node": "^15.4.0"
+  }
+}
