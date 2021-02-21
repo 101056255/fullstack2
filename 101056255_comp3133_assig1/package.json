@@ -1,0 +1,28 @@
+{
+  "name": "101056255_comp3133_assig1",
+  "version": "1.0.0",
+  "description": "GraphQL assignment 1",
+  "main": "nodemon server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Edward Philip",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server-errors": "^2.4.2",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-graphql": "^0.12.0",
+    "express-mongoose": "^0.1.0",
+    "graphql": "^15.5.0",
+    "graphql-compose": "^7.25.0",
+    "graphql-compose-mongoose": "^9.1.0",
+    "mongoose": "^5.11.16",
+    "nodemon": "^2.0.7"
+  },
+  "devDependencies": {
+    "apollo-server-express": "^2.21.0",
+    "mongodb": "^3.6.4"
+  }
+}
